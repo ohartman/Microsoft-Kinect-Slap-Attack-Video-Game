@@ -1,6 +1,7 @@
 # Slapattack/Slapkinect Video Game
 Created using the processing programming language with help from
 the OpenKinect project.
+
 *Slap-Kinect requires a Microsoft Kinect device!
 *Slap-Attack only requires a webcam!
 
